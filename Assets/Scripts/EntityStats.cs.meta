@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80253918884f3eb44a2e9af7b1f98f89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathanim: {instanceID: 0}
+  - portalanim: {instanceID: 0}
+  - coin: {fileID: 1320345072253870369, guid: ded3963b060869244b74287c918448dc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
